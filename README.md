@@ -19,6 +19,12 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
      - 230327: represents the expiration date in YYMMDD format. The contract expires on March 27th, 2023 in this example
      - P: stands for a put option. Call options would have a C instead
      - 00390000: stands for the strike price of the option. In this contract the strike price is $390
+  - **volume:** the number of options contracts bought
+  - **open:** the price of the contract when the market opens
+  - **close:** the price of the contract when the market closes
+  - **high:** the highest price for the option contract on the given day
+  - **low:** the lowest price for the option contract on the given day
+  - **window_start:** the time in unix ns the transation was executed at
 
 # Data Analysis
 ## How does implied volatility (IV) behave before and after Amazon's earnings, and what does this mean for options traders?
