@@ -12,6 +12,14 @@
 The data was collected using Polygon.io's hisotircal option data aggregated by minute. This site is recognized globally and is trusted by major institutions including Google, Public, and Stanford.
 ![Screenshot 2025-03-05 at 1 49 05 PM](https://github.com/user-attachments/assets/1da7ab84-b3a4-4470-a495-63a31ccd2888)
 
+ - **ticker:** The full option contract
+   - Ex: O:SPY230327P00390000
+     - O: indicated that this is an options contract
+     - SPY: underlying asset or security for the option
+     - 230327: represents the expiration date in YYMMDD format. The contract expires on March 27th, 2023 in this example
+     - P: stands for a put option. Call options would have a C instead
+     - 00390000: stands for the strike price of the option. In this contract the strike price is $390
+
 # Data Analysis
 ## How does implied volatility (IV) behave before and after Amazon's earnings, and what does this mean for options traders?
 ### Key Findings
