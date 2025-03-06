@@ -2,6 +2,16 @@
 [SQL | Python | Tableau]
 
 # Analyzing Amazon Option Data Pre & Post Earnings for FY 2024
+## Table of Contents
+- [Introduction](#introduction)
+- [Data Collection](#data-collection)
+- [Quarterly Earnings Dates and Reports](#quarterly-earnings-dates-and-reports)
+- [Data Analysis](#data-analysis)
+- [Conclusion](#conclusion)
+
+# Introduction:
+Earnings announcements are critical events in the stock market, often driving significant price movements and volatility in options markets. For options traders, understanding how implied volatility (IV) behaves before, during, and after earnings is essential for optimizing trading strategies. This report analyzes Amazon’s option data for FY 2024, focusing on how IV fluctuates around earnings events and the implications for market participants.
+
 ## Questions to be Asked:
   - **How does implied volatility (IV) behave before and after Amazon's earnings, and what does this mean for options traders?**
   - **Does the magnitude of IV crush vary across different earnings periods, and can we predict it based on historical patterns?**
@@ -153,7 +163,12 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
 | Market Sentiment  | Bearish skew, strong downside hedging| More neutral, less hedging | Bearish skew, strong downside hedging | More balanced, slight upside speculation |
 
 
+# Conlcusion
+This analysis of Amazon’s options data surrounding earnings reports for FY 2024 provides key insights into the behavior of implied volatility (IV) and its impact on trading strategies. The findings indicate that IV follows a consistent pattern across earnings periods—rising significantly pre-earnings, peaking on the earnings day, and subsequently experiencing a sharp post-earnings IV crush. However, the magnitude of IV crush varies by quarter, with Q1 and Q3 exhibiting the highest volatility drops, while Q2 and Q4 show more moderate declines, likely due to lower revenue surprises.
 
+Additionally, IV skew analysis suggests that traders exhibit strong downside hedging behavior during uncertain quarters, particularly in Q1 and Q3, where deep out-of-the-money (OTM) put options experience the highest IV spikes. In contrast, Q4 shows a more balanced market sentiment with slight upside speculation, leading to a milder IV crush. These observations highlight the importance of adapting trading strategies to the specific characteristics of each earnings period.
+
+For options traders, this study reinforces the significance of timing trades based on IV expectations. Strategies such as pre-earnings long straddles, earnings-day IV premium selling, and post-earnings discount buying can be optimized by recognizing historical IV patterns. Ultimately, understanding IV behavior around earnings allows traders to make more informed decisions, mitigating risk and capitalizing on opportunities within the options market.
 
 
 
