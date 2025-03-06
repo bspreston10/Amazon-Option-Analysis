@@ -1,5 +1,4 @@
 # Amazon-Option-Analysis
-[SQL | Python | Tableau]
 
 # Analyzing Amazon Option Data Pre & Post Earnings for FY 2024
 ## Table of Contents
