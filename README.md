@@ -96,5 +96,16 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
 
 ## Does the magnitude of IV crush vary across different earnings periods, and can we predict it based on historical patterns?
 ### Key Findings
-  - 
- 
+  - **IV Crush Varies by Quarter:**
+    - Q1 and Q3 experience a 22% decrease in IV post-earnings, indicating higher uncertainty leading into these reports
+    - Q2 and Q4 shows a smaller 6% drop in IV, suggesting lower implied risk or uncertainty surrounding earnings
+  - **Earning Suprise Consitency:**
+    - The Earnings Per Share (EPS) suprise remains relatively stable across all quarters, ranging from 18-25%
+    - However, revenue suprises exhibit more variation, whihc may help explain difference in IV crush
+  - **Potential Correlation Between Revenue Suprise and IV Crush:**
+    - Q2 and Q4 have the lowest revenue suprises (-0.52% and 0.30%), which aligns with the smallest IV crush (6%) post-earnings not fall as sharply as post-earnings
+    - This suggests that when revenue results are more predictable, IV does not rise as aggressibely pre-earnings and does
+![Screenshot 2025-03-06 at 11 56 40 AM](https://github.com/user-attachments/assets/e61c6ba5-12b5-41c9-9562-a6dcc530dbae)
+
+
+
