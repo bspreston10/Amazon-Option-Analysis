@@ -145,12 +145,12 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
 ![Screenshot 2025-03-06 at 1 47 18 PM](https://github.com/user-attachments/assets/7ecbebc2-47a0-4b9e-a0c6-c37f3b36b232)
 
 #### Comparison of IV Skew Across All Earnings Periods
-| Metirc            | Q1 (Apr 30, 2024)                    | Q2 (July 30, 2024) | Q3 (Oct 31, 2024) | Q4 (Feb 6, 2025) |
-|-------------------|--------------------------------------|--------------------|-------------------|------------------|
-| Deep OTM IV       | Very high (>300%)                    |
-| ATM IV Stability  | Flatter                              |
-| IV Crush Expected?| High, due to extreme IV levels       |
-| Market Sentiment  | Bearish skew, strong downside hedging|
+| Metirc            | Q1 (Apr 30, 2024)                    | Q2 (July 30, 2024)         | Q3 (Oct 31, 2024)   | Q4 (Feb 6, 2025) |
+|-------------------|--------------------------------------|----------------------------|---------------------|------------------|
+| Deep OTM IV       | Very high (>300%)                    | Moderate (<150%)           | Very high (>300%)   |
+| ATM IV Stability  | Flatter                              | More Jagged                | More Stable         |
+| IV Crush Expected?| High, due to extreme IV levels       | Smaller, due to lower IV   | High, similar to Q1 |
+| Market Sentiment  | Bearish skew, strong downside hedging| More neutral, less hedging | Bearish skew, strong downside hedging |
 
 
 
