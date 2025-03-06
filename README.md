@@ -16,7 +16,6 @@ Earnings announcements are critical events in the stock market, often driving si
   - **How does implied volatility (IV) behave before and after Amazon's earnings, and what does this mean for options traders?**
   - **Does the magnitude of IV crush vary across different earnings periods, and can we predict it based on historical patterns?**
   - **Which strike prices experience the highest changes in implied volatility around earnings?**
-  - **How do call and put option volumes behave leading up to earnings and can they indicate market sentiment?**
 
 # Data Collection:
 The data was collected using Polygon.io's hisotircal option data aggregated by minute. This site is recognized globally and is trusted by major institutions including Google, Public, and Stanford.
