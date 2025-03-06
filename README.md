@@ -1,5 +1,3 @@
-# Amazon-Option-Analysis
-
 # Analyzing Amazon Option Data Pre & Post Earnings for FY 2024
 ## Table of Contents
 - [Introduction](#introduction)
