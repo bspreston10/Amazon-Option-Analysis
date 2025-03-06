@@ -1,4 +1,7 @@
 # Analyzing Amazon Option Data Pre & Post Earnings for FY 2024
+
+**Tableau Dashboard Link:** https://public.tableau.com/app/profile/bennett.preston/viz/option_amzn/Dashboard3
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
