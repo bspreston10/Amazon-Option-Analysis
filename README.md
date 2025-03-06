@@ -162,7 +162,7 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
 | Market Sentiment  | Bearish skew, strong downside hedging| More neutral, less hedging | Bearish skew, strong downside hedging | More balanced, slight upside speculation |
 
 
-# Conlcusion
+# Conclusion
 This analysis of Amazon’s options data surrounding earnings reports for FY 2024 provides key insights into the behavior of implied volatility (IV) and its impact on trading strategies. The findings indicate that IV follows a consistent pattern across earnings periods—rising significantly pre-earnings, peaking on the earnings day, and subsequently experiencing a sharp post-earnings IV crush. However, the magnitude of IV crush varies by quarter, with Q1 and Q3 exhibiting the highest volatility drops, while Q2 and Q4 show more moderate declines, likely due to lower revenue surprises.
 
 Additionally, IV skew analysis suggests that traders exhibit strong downside hedging behavior during uncertain quarters, particularly in Q1 and Q3, where deep out-of-the-money (OTM) put options experience the highest IV spikes. In contrast, Q4 shows a more balanced market sentiment with slight upside speculation, leading to a milder IV crush. These observations highlight the importance of adapting trading strategies to the specific characteristics of each earnings period.
