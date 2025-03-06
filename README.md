@@ -26,6 +26,51 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
   - **low:** the lowest price for the option contract on the given day
   - **window_start:** the time in unix ns the transation was executed at
 
+# Quarterly Earnings Dates and Reports
+## Q1 2024: Reported April 30th, 2024
+### EPS
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 0.83     | 0.98     | 18.12%  |
+
+### Revenue
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 142.56B  | 143.31B  | 0.53%   |
+
+## Q2 2024: Reported on August 1st, 2024
+### EPS
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 1.02     | 1.26     | 23.76%  |
+
+### Revenue
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 148.76B  | 147.98B  | -0.52%  |
+
+## Q3 2024: Reported on October 31st, 2024
+### EPS
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 1.14     | 1.43     | 25.22%  |
+
+### Revenue
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 157.28B  | 158.88B  | 1.01%   |
+
+## Q4 2024, February 6th, 2024
+### EPS
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 1.48     | 1.86     | 25.29%  |
+
+### Revenue
+| Expected | Reported | Suprise |
+|----------|----------|---------|
+| 187.23B  | 187.79B  | 0.30%   |
+
 # Data Analysis
 ## How does implied volatility (IV) behave before and after Amazon's earnings, and what does this mean for options traders?
 ### Key Findings
@@ -48,4 +93,8 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
 **Strategies for Post-Earnings:**
   - **Buying Options at a Discount:** After IV Crush, options become cheaper. Traders expecting further volatility may find good entry points.
   - **Avoid Holding High IV Options Too Long:** If a trader holds options through earnings the IV drop may significantly reduce their value, even if the stock moves in their favor.
+
+## Does the magnitude of IV crush vary across different earnings periods, and can we predict it based on historical patterns?
+### Key Findings
+  - 
  
