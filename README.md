@@ -105,7 +105,55 @@ The data was collected using Polygon.io's hisotircal option data aggregated by m
   - **Potential Correlation Between Revenue Suprise and IV Crush:**
     - Q2 and Q4 have the lowest revenue suprises (-0.52% and 0.30%), which aligns with the smallest IV crush (6%) post-earnings not fall as sharply as post-earnings
     - This suggests that when revenue results are more predictable, IV does not rise as aggressibely pre-earnings and does
+
 ![Screenshot 2025-03-06 at 11 56 40 AM](https://github.com/user-attachments/assets/e61c6ba5-12b5-41c9-9562-a6dcc530dbae)
+
+### Implications for Traders
+  - **Lower Revenue Suprise --> Smaller IV Crush:**
+    - In quarters with low revenue suprises, IV crush is much less pronounced. This may indicate that options are less overpriced heading into these earnings, making strategies like pre-earnings straddles or strangles less effective
+
+## Which strike prices experience the highest changes in implied volatility around earnings?
+### Key Findings
+  - **Q1 2024:**
+    - We see a smirk skew pattern where IV is extremely high (300%) for out-of-the-money (OTM) strikes near $120 and $140.
+      - This suggests that downside risk is more heavily priced than upside moves and traders are potentially fearful of a significant drop post-earnings
+    - At-the-money (ATM) options (~$150-$190) are relatively stable suggesting more market confidence in contracts closer to the underlying
+    - We also see small spikes in IV around $200-$220 suggesting some speculative dmeand or hedging for large upside movements
+    - Due to the IV being higly elevated particularly for OTM options, we expect an IV crush post-earnings, which follows what we see above
+
+![Screenshot 2025-03-06 at 12 19 45 PM](https://github.com/user-attachments/assets/55a2edd6-09c7-479f-8d2f-598cad289fcb)
+
+  - **Q2 2024:**
+    - Compared ot Q1, IV is less volatile peaking at around 150% compared to Q1 peaking at around 300%. This suggests that the market expects some uncertainty, but much less than Q1
+    - Overall the skew is balanced, which suggests less aggresive downside hedging and lower fear of a major drop in price
+    - Looking at this skew we still expect a IV crush post earnings, but less aggresive than Q1. This follows again what we see above looking at IV crush
+
+![Screenshot 2025-03-06 at 12 38 08 PM](https://github.com/user-attachments/assets/01c0fc03-23a5-4b79-bb5c-dcb58cb4b180)
+
+  - **Q3 2024:**
+    - We see a sharp IV (300%) spike in OTM put options around $120, creating a similar smirk pattern comapred to Q1. This is suggesting that there is heavy demand for downside proteciton and traders are anticipating greater downside risk in the quarter
+    - We also see a small bump in OTM call options around $200-220 suggesting possibly due to funds hedging against upside risk.
+    - Similar to Q1, we would expect a large IV crush post earnings, which alligns with what we see after Q3 earnings report
+
+![Screenshot 2025-03-06 at 1 37 29 PM](https://github.com/user-attachments/assets/bb48f83e-7bf2-4d63-9428-3bcdc75f2b99)
+
+  - **Q4 2024:**
+    - We see that the peak IV for this earnings report is signficantly less than past quarters, particularly Q1 and Q3, peaking at around 120% for deep OTM put options with a strike price ranging from $160-$175
+    - Overall, the IV is more balanced compared to previous quarters indicating that more stability in market expectations for this earnings report
+    - Due to the mild spikes in IV compared to the previous quarters, we expect any IV crush to be less aggresive
+
+![Screenshot 2025-03-06 at 1 47 18 PM](https://github.com/user-attachments/assets/7ecbebc2-47a0-4b9e-a0c6-c37f3b36b232)
+
+#### Comparison of IV Skew Across All Earnings Periods
+| Metirc            | Q1 (Apr 30, 2024)                    | Q2 (July 30, 2024) | Q3 (Oct 31, 2024) | Q4 (Feb 6, 2025) |
+|-------------------|--------------------------------------|--------------------|-------------------|------------------|
+| Deep OTM IV       | Very high (>300%)                    |
+| ATM IV Stability  | Flatter                              |
+| IV Crush Expected?| High, due to extreme IV levels       |
+| Market Sentiment  | Bearish skew, strong downside hedging|
+
+
+
 
 
 
